@@ -1,2 +1,3 @@
 name: Mona- here I will work on ML projects, summarize papers, and try to create and code my own solutions. 
 Markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
